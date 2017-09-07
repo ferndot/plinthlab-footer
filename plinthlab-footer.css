@@ -1,0 +1,17 @@
+/* Plinth Laboratories footer style */
+footer#plinthlab-footer {
+  background: #000;
+  color: #fff;
+  font-size: 2rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+footer#plinthlab-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+footer#plinthlab-footer a:hover {
+  text-decoration: underline;
+}
