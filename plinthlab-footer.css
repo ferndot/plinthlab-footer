@@ -2,8 +2,10 @@
 footer#plinthlab-footer {
   background: #000;
   color: #fff;
-  font-size: 2rem;
-  padding: 2rem;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: sans-serif;
+  padding: 20px;
   text-align: center;
 }
 
@@ -14,4 +16,12 @@ footer#plinthlab-footer a {
 
 footer#plinthlab-footer a:hover {
   text-decoration: underline;
+}
+
+footer#plinthlab-footer svg {
+  stroke: #fff;
+  height: 30px;
+  vertical-align: middle;
+  stroke-width: 14px;
+  margin-right: 4px;
 }
